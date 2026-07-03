@@ -8,7 +8,7 @@ The application utilizes a custom-built routing structure optimized for seamless
 
 ## 🚀 Live Demo
 Check out the live application here:  
-👉 **[Your Live GitHub Pages URL Goes Here]**
+👉 **[[Your Live GitHub Pages URL Goes Here]](https://fresh-cart-ecommerce-xmla.vercel.app/)**
 
 ---
 
